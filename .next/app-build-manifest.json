@@ -5,16 +5,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/layout.js"
     ],
-    "/(HomePage)/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(HomePage)/page.js"
-    ],
-    "/(HomePage)/head": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(HomePage)/head.js"
-    ],
     "/tik-tak-toe/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -25,6 +15,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/tik-tak-toe/head.js"
+    ],
+    "/(HomePage)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(HomePage)/page.js"
+    ],
+    "/(HomePage)/head": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(HomePage)/head.js"
     ]
   }
 }

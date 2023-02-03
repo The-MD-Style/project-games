@@ -13,7 +13,7 @@ self.__RSC_CSS_MANIFEST={
     ]
   },
   "/home/themdstyle/Desktop/project-games/src/app/(HomePage)/page.tsx": [
-    "/home/themdstyle/Desktop/project-games/node_modules/@next/font/google/target.css?{\"path\":\"src/app/(HomePage)/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "/home/themdstyle/Desktop/project-games/node_modules/@next/font/google/target.css?{\"path\":\"src/app/(HomePage)/page.view.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
   ],
   "/home/themdstyle/Desktop/project-games/src/app/layout.tsx": [
     "/home/themdstyle/Desktop/project-games/src/layouts/Footer/Footer.module.scss",

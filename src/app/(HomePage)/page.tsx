@@ -1,13 +1,7 @@
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import styles from './page.module.scss'
-
-const inter = Inter({ subsets: ['latin'] })
+import HomeView from "./page.view";
 
 export default function Home() {
   return (
-    <main>
-      HomePage
-    </main>
+    <HomeView></HomeView>
   )
 }

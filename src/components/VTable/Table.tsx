@@ -4,13 +4,11 @@ import { winFunction } from "../../utils/game.utils";
 import { IGameTable, default_table } from "../../models/table.model";
 import VIcon from "../VIcon/VIcon";
 import { Icons } from "../../assets/icons";
-
 type Props = {
   func: () => string | null;
 };
 const Table: React.FC<Props> = (props: Props) => {
   const [table, setTable] = useState<IGameTable[][]>(default_table);
-  const [winner, setWinner] = useState<'X'|'O'|null>(null)
 
   const cellHandler = (row: number, cell: number) => {
     let copy = [...table];
@@ -28,7 +26,7 @@ const Table: React.FC<Props> = (props: Props) => {
       case "0":
         return "O";
       default:
-        return "X";
+        return "space";
     }
   };
   

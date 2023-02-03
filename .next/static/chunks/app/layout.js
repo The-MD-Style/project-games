@@ -1,0 +1,28 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FFooter%2FFooter.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FHeader%2FHeader.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Fstyles%2Fglobals.scss&server=false!":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FFooter%2FFooter.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FHeader%2FHeader.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Fstyles%2Fglobals.scss&server=false! ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"_app-client_src_layouts_Footer_Footer_module_scss\").then(__webpack_require__.t.bind(__webpack_require__, /*! ./src/layouts/Footer/Footer.module.scss */ \"(app-client)/./src/layouts/Footer/Footer.module.scss\", 23)));\n(() => __webpack_require__.e(/*! import() */ \"_app-client_src_layouts_Header_Header_module_scss\").then(__webpack_require__.t.bind(__webpack_require__, /*! ./src/layouts/Header/Header.module.scss */ \"(app-client)/./src/layouts/Header/Header.module.scss\", 23)));\n(() => __webpack_require__.e(/*! import() */ \"_app-client_src_styles_globals_scss\").then(__webpack_require__.bind(__webpack_require__, /*! ./src/styles/globals.scss */ \"(app-client)/./src/styles/globals.scss\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRmhvbWUlMkZ0aGVtZHN0eWxlJTJGRGVza3RvcCUyRnByb2plY3QtZ2FtZXMlMkZzcmMlMkZsYXlvdXRzJTJGRm9vdGVyJTJGRm9vdGVyLm1vZHVsZS5zY3NzJm1vZHVsZXM9JTJGaG9tZSUyRnRoZW1kc3R5bGUlMkZEZXNrdG9wJTJGcHJvamVjdC1nYW1lcyUyRnNyYyUyRmxheW91dHMlMkZIZWFkZXIlMkZIZWFkZXIubW9kdWxlLnNjc3MmbW9kdWxlcz0lMkZob21lJTJGdGhlbWRzdHlsZSUyRkRlc2t0b3AlMkZwcm9qZWN0LWdhbWVzJTJGc3JjJTJGc3R5bGVzJTJGZ2xvYmFscy5zY3NzJnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsT0FBTywyUEFBZ0g7QUFDdkgsT0FBTywyUEFBZ0g7QUFDdkgsT0FBTywyTUFBa0ciLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz80MTRiIl0sInNvdXJjZXNDb250ZW50IjpbIigoKSA9PiBpbXBvcnQoLyogd2VicGFja01vZGU6IFwibGF6eVwiICovIFwiL2hvbWUvdGhlbWRzdHlsZS9EZXNrdG9wL3Byb2plY3QtZ2FtZXMvc3JjL2xheW91dHMvRm9vdGVyL0Zvb3Rlci5tb2R1bGUuc2Nzc1wiKSk7XG4oKCkgPT4gaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImxhenlcIiAqLyBcIi9ob21lL3RoZW1kc3R5bGUvRGVza3RvcC9wcm9qZWN0LWdhbWVzL3NyYy9sYXlvdXRzL0hlYWRlci9IZWFkZXIubW9kdWxlLnNjc3NcIikpO1xuKCgpID0+IGltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJsYXp5XCIgKi8gXCIvaG9tZS90aGVtZHN0eWxlL0Rlc2t0b3AvcHJvamVjdC1nYW1lcy9zcmMvc3R5bGVzL2dsb2JhbHMuc2Nzc1wiKSkiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FFooter%2FFooter.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FHeader%2FHeader.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Fstyles%2Fglobals.scss&server=false!\n"));
+
+/***/ })
+
+},
+/******/ function(__webpack_require__) { // webpackRuntimeModules
+/******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FFooter%2FFooter.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Flayouts%2FHeader%2FHeader.module.scss&modules=%2Fhome%2Fthemdstyle%2FDesktop%2Fproject-games%2Fsrc%2Fstyles%2Fglobals.scss&server=false!"); });
+/******/ var __webpack_exports__ = __webpack_require__.O();
+/******/ _N_E = __webpack_exports__;
+/******/ }
+]);

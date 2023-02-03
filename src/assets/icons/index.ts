@@ -1,8 +1,9 @@
-import { X, O } from './custom';
+import { X, O, space } from './custom';
 
 const icons = {
   X,
-  O
+  O,
+  space
 };
 
 export type Icons = keyof typeof icons;

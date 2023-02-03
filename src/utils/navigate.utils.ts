@@ -53,3 +53,14 @@ export const back_nav = (to: INavigate): INavigate => {
       return "rightDown";
   }
 };
+
+export const directions: INavigate[] = [
+  "left",
+  "leftUp",
+  "up",
+  "upRight",
+  "right",
+  "rightDown",
+  "down",
+  "downLeft",
+];

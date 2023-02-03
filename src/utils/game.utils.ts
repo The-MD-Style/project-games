@@ -1,17 +1,5 @@
-import { INavigate } from "../models/navigate.model";
 import { IGameTable } from "../models/table.model";
-import { back_nav, navigate } from "./navigate.utils";
-
-const directions: INavigate[] = [
-    "left",
-    "leftUp",
-    "up",
-    "upRight",
-    "right",
-    "rightDown",
-    "down",
-    "downLeft",
-  ];
+import { back_nav, directions, navigate } from "./navigate.utils";
 
   export const winFunction = (value: IGameTable[][], row: number, cell: number) => {
     directions.map((dir) => {

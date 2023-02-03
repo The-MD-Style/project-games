@@ -1,0 +1,4 @@
+{
+  "/(HomePage)/page": "app/(HomePage)/page.js",
+  "/tik-tak-toe/page": "app/tik-tak-toe/page.js"
+}

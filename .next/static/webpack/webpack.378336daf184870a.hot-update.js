@@ -9,18 +9,6 @@
  */
 self["webpackHotUpdate_N_E"]("webpack",{},
 /******/ function(__webpack_require__) { // webpackRuntimeModules
-/******/ /* webpack/runtime/compat get default export */
-/******/ !function() {
-/******/ 	// getDefaultExport function for compatibility with non-harmony modules
-/******/ 	__webpack_require__.n = function(module) {
-/******/ 		var getter = module && module.__esModule ?
-/******/ 			function() { return module['default']; } :
-/******/ 			function() { return module; };
-/******/ 		__webpack_require__.d(getter, { a: getter });
-/******/ 		return getter;
-/******/ 	};
-/******/ }();
-/******/ 
 /******/ /* webpack/runtime/create fake namespace object */
 /******/ !function() {
 /******/ 	var getProto = Object.getPrototypeOf ? function(obj) { return Object.getPrototypeOf(obj); } : function(obj) { return obj.__proto__; };
@@ -83,7 +71,7 @@ self["webpackHotUpdate_N_E"]("webpack",{},
 /******/ 
 /******/ /* webpack/runtime/getFullHash */
 /******/ !function() {
-/******/ 	__webpack_require__.h = function() { return "52986fec5bf00cae"; }
+/******/ 	__webpack_require__.h = function() { return "a16828259340d89c"; }
 /******/ }();
 /******/ 
 /******/ /* webpack/runtime/make namespace object */
@@ -167,7 +155,7 @@ self["webpackHotUpdate_N_E"]("webpack",{},
 /******/ 	};
 /******/ 	
 /******/ 	__webpack_require__.f.miniCss = function(chunkId, promises) {
-/******/ 		var cssChunks = {"_app-client_src_styles_globals_scss":1,"_app-client_src_layouts_Header_Header_module_scss":1,"_app-client_src_layouts_Footer_Footer_module_scss":1};
+/******/ 		var cssChunks = {"_app-client_src_styles_globals_scss":1,"_app-client_src_layouts_Footer_Footer_module_scss":1,"_app-client_src_layouts_Header_Header_module_scss":1,"_app-client_node_modules_next_font_google_target_css_path_src_app_HomePage_page_view_tsx_impo-8ad766":1};
 /******/ 		if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
 /******/ 		else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
 /******/ 			promises.push(installedCssChunks[chunkId] = loadStylesheet(chunkId).then(function() {

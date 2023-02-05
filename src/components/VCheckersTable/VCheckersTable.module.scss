@@ -1,0 +1,23 @@
+.table{
+    max-width: 150px;
+    max-height: 150px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid white !important;
+    border-collapse: collapse;
+    .row{
+        height: 50px;
+        width: 100%;
+        .cell{
+            max-width: 50px;
+            min-width: 50px;
+            text-align: center;
+            cursor: pointer;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        .green{
+            background: rgb(56, 70, 35);
+        }
+    }
+}

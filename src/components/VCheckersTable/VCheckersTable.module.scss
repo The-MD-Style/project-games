@@ -5,16 +5,43 @@
     height: 100%;
     border: 1px solid white !important;
     border-collapse: collapse;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
     .row{
         height: 50px;
         width: 100%;
         .cell{
+            color:transparent;
             max-width: 50px;
             min-width: 50px;
             text-align: center;
             cursor: pointer;
             border: 1px solid black;
             border-collapse: collapse;
+            .white{
+                border: 1px solid black;
+                border-radius: 50%;
+                width: 100%;
+                height: 100%;
+                background: white;
+
+            }
+            .black{
+                width: 100%;
+                height: 100%;
+                border: 1px solid black;
+                border-radius: 50%;
+                background:  black;
+
+            }
+            .isSelected{
+                border: 2px solid red;
+
+            }
         }
         .green{
             background: rgb(56, 70, 35);

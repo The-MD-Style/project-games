@@ -130,28 +130,28 @@
         "async": false
       }
     },
-    "(app-client)/./src/app/tik-tak-toe/page.tsx": {
+    "(app-client)/./src/app/shashte/page.tsx": {
       "": {
-        "id": "(sc_client)/./src/app/tik-tak-toe/page.tsx",
+        "id": "(sc_client)/./src/app/shashte/page.tsx",
         "name": "",
         "chunks": [
-          "app/tik-tak-toe/page:app/tik-tak-toe/page"
+          "app/shashte/page:app/shashte/page"
         ],
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./src/app/tik-tak-toe/page.tsx",
+        "id": "(sc_client)/./src/app/shashte/page.tsx",
         "name": "*",
         "chunks": [
-          "app/tik-tak-toe/page:app/tik-tak-toe/page"
+          "app/shashte/page:app/shashte/page"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/tik-tak-toe/page.tsx",
+        "id": "(sc_client)/./src/app/shashte/page.tsx",
         "name": "default",
         "chunks": [
-          "app/tik-tak-toe/page:app/tik-tak-toe/page"
+          "app/shashte/page:app/shashte/page"
         ],
         "async": false
       }
@@ -159,8 +159,8 @@
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "D:\\Projects\\project-games\\src\\app\\tik-tak-toe\\page": [
-      "static/css/app/tik-tak-toe/page.css"
+    "D:\\Projects\\project-games\\src\\app\\shashte\\page": [
+      "static/css/app/shashte/page.css"
     ],
     "D:\\Projects\\project-games\\src\\app\\(HomePage)\\page": [
       "static/css/_app-client_node_modules_next_font_google_target_css_path_src_app_HomePage_page_view_tsx_impo-8ad766.css"
@@ -301,37 +301,37 @@
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\src\\components\\VTable\\Table.module.scss": {
+  "D:\\Projects\\project-games\\src\\components\\VCheckersTable\\VCheckersTable.module.scss": {
     "default": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/tik-tak-toe/page.css"
+        "static/css/app/shashte/page.css"
       ]
     }
   },
-  "D:\\Projects\\project-games\\src\\app\\tik-tak-toe\\page.tsx": {
+  "D:\\Projects\\project-games\\src\\app\\shashte\\page.tsx": {
     "": {
-      "id": "(app-client)/./src/app/tik-tak-toe/page.tsx",
+      "id": "(app-client)/./src/app/shashte/page.tsx",
       "name": "",
       "chunks": [
-        "app/tik-tak-toe/page:app/tik-tak-toe/page"
+        "app/shashte/page:app/shashte/page"
       ],
       "async": false
     },
     "*": {
-      "id": "(app-client)/./src/app/tik-tak-toe/page.tsx",
+      "id": "(app-client)/./src/app/shashte/page.tsx",
       "name": "*",
       "chunks": [
-        "app/tik-tak-toe/page:app/tik-tak-toe/page"
+        "app/shashte/page:app/shashte/page"
       ],
       "async": false
     },
     "default": {
-      "id": "(app-client)/./src/app/tik-tak-toe/page.tsx",
+      "id": "(app-client)/./src/app/shashte/page.tsx",
       "name": "default",
       "chunks": [
-        "app/tik-tak-toe/page:app/tik-tak-toe/page"
+        "app/shashte/page:app/shashte/page"
       ],
       "async": false
     }

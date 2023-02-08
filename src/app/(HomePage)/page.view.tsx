@@ -15,7 +15,7 @@ export default function HomeView() {
           <Link href="/tik-tak-toe">tik-tak-toe</Link>
         </li>
         <li>
-          <Link href="/сheckers">сheckers</Link>
+          <Link href="/shashte">сheckers</Link>
         </li>
       </ul>
     </main>

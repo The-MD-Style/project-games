@@ -1,10 +1,11 @@
-import Table from '@/components/VTable/Table';
-import React from 'react'
+import TableCheckers from "@/components/VCheckersTable/VCheckersTable";
+import Table from "@/components/VTable/Table";
+import React from "react";
 
 type Props = {
-  currentTurn:string|null;
-  turnHandler: () => string|null;
-}
+  currentTurn: string | null;
+  turnHandler: () => string | null;
+};
 
 const PageView = (props: Props) => {
   return (
@@ -13,6 +14,6 @@ const PageView = (props: Props) => {
       {props.currentTurn}
     </div>
   );
-}
+};
 
 export default PageView;

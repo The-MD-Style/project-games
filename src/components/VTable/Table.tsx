@@ -29,26 +29,28 @@ const Table: React.FC<Props> = (props: Props) => {
         return "space";
     }
   };
-  
+
   return (
     <table className={classes["table"]}>
-      {table.map((value, rowIndex: number) => (
-        <tr className={classes["row"]} key={"row " + rowIndex}>
-          {value.map((row_element, cellIndex) => (
-            <td
-              key={"cell " + cellIndex}
-              className={classes["cell"]}
-              onClick={() => cellHandler(rowIndex, cellIndex)}
-            >
-              {row_element ? (
-                <VIcon name={tableElement(row_element)}></VIcon>
-              ) : (
-                " "
-              )}
-            </td>
-          ))}
-        </tr>
-      ))}
+      <tbody>
+        {table.map((value, rowIndex: number) => (
+          <tr className={classes["row"]} key={"row " + rowIndex}>
+            {value.map((row_element, cellIndex) => (
+              <td
+                key={"cell " + cellIndex}
+                className={classes["cell"]}
+                onClick={() => cellHandler(rowIndex, cellIndex)}
+              >
+                {row_element ? (
+                  <VIcon name={tableElement(row_element)}></VIcon>
+                ) : (
+                  " "
+                )}
+              </td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
     </table>
   );
 };

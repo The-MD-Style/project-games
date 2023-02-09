@@ -155,23 +155,52 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./src/app/tik-tak-toe/page.tsx": {
+      "": {
+        "id": "(sc_client)/./src/app/tik-tak-toe/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/tik-tak-toe/page:app/tik-tak-toe/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./src/app/tik-tak-toe/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/tik-tak-toe/page:app/tik-tak-toe/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/tik-tak-toe/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/tik-tak-toe/page:app/tik-tak-toe/page"
+        ],
+        "async": false
+      }
     }
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "D:\\Projects\\project-games\\src\\app\\shashte\\page": [
+    "/home/themdstyle/Desktop/project-games/src/app/shashte/page": [
       "static/css/app/shashte/page.css"
     ],
-    "D:\\Projects\\project-games\\src\\app\\(HomePage)\\page": [
+    "/home/themdstyle/Desktop/project-games/src/app/tik-tak-toe/page": [
+      "static/css/app/tik-tak-toe/page.css"
+    ],
+    "/home/themdstyle/Desktop/project-games/src/app/(HomePage)/page": [
       "static/css/_app-client_node_modules_next_font_google_target_css_path_src_app_HomePage_page_view_tsx_impo-8ad766.css"
     ],
-    "D:\\Projects\\project-games\\src\\app\\layout": [
+    "/home/themdstyle/Desktop/project-games/src/app/layout": [
       "static/css/_app-client_src_styles_globals_scss.css",
       "static/css/_app-client_src_layouts_Header_Header_module_scss.css",
       "static/css/_app-client_src_layouts_Footer_Footer_module_scss.css"
     ]
   },
-  "D:\\Projects\\project-games\\node_modules\\next\\dist\\client\\link.js": {
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/client/link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
@@ -197,7 +226,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/esm/client/link.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/(HomePage)/page:app/(HomePage)/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/(HomePage)/page:app/(HomePage)/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/(HomePage)/page:app/(HomePage)/page"
+      ],
+      "async": false
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -223,7 +278,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/esm/client/components/app-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -249,7 +330,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -275,7 +382,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -301,7 +434,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\src\\components\\VCheckersTable\\VCheckersTable.module.scss": {
+  "/home/themdstyle/Desktop/project-games/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/src/components/VCheckersTable/VCheckersTable.module.scss": {
     "default": {
       "id": "null",
       "name": "default",
@@ -310,7 +469,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "D:\\Projects\\project-games\\src\\app\\shashte\\page.tsx": {
+  "/home/themdstyle/Desktop/project-games/src/app/shashte/page.tsx": {
     "": {
       "id": "(app-client)/./src/app/shashte/page.tsx",
       "name": "",
@@ -336,7 +495,60 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "D:\\Projects\\project-games\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\(HomePage)\\\\page.view.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+  "/home/themdstyle/Desktop/project-games/src/app/tik-tak-toe/page.module.scss": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/tik-tak-toe/page.css"
+      ]
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/src/components/VTable/Table.module.scss": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/tik-tak-toe/page.css"
+      ]
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/src/containers/Container/Container.module.scss": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/tik-tak-toe/page.css"
+      ]
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/src/app/tik-tak-toe/page.tsx": {
+    "": {
+      "id": "(app-client)/./src/app/tik-tak-toe/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/tik-tak-toe/page:app/tik-tak-toe/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./src/app/tik-tak-toe/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/tik-tak-toe/page:app/tik-tak-toe/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./src/app/tik-tak-toe/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/tik-tak-toe/page:app/tik-tak-toe/page"
+      ],
+      "async": false
+    }
+  },
+  "/home/themdstyle/Desktop/project-games/node_modules/@next/font/google/target.css?{\"path\":\"src/app/(HomePage)/page.view.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",
@@ -345,7 +557,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "D:\\Projects\\project-games\\src\\layouts\\Footer\\Footer.module.scss": {
+  "/home/themdstyle/Desktop/project-games/src/layouts/Footer/Footer.module.scss": {
     "default": {
       "id": "null",
       "name": "default",
@@ -354,7 +566,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "D:\\Projects\\project-games\\src\\layouts\\Header\\Header.module.scss": {
+  "/home/themdstyle/Desktop/project-games/src/layouts/Header/Header.module.scss": {
     "default": {
       "id": "null",
       "name": "default",
@@ -363,7 +575,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "D:\\Projects\\project-games\\src\\styles\\globals.scss": {
+  "/home/themdstyle/Desktop/project-games/src/styles/globals.scss": {
     "default": {
       "id": "null",
       "name": "default",

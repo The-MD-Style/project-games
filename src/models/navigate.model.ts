@@ -7,3 +7,8 @@ export type INavigate =
   | "rightDown"
   | "down"
   | "downLeft";
+
+export type ICoordinates = {
+    row:number|null; 
+    cell:number|null
+  };

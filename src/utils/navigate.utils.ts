@@ -1,6 +1,6 @@
-import { INavigate } from "../models/navigate.model";
+import { ICoordinates, INavigate } from "../models/navigate.model";
 
-export const navigate = (to: INavigate, row: number | null, cell: number | null) => {
+export const navigate = (to: INavigate, row: number | null, cell: number | null):ICoordinates => {
     switch (to) {
       case "left":
         cell = cell != null && cell - 1 !== -1 ? cell - 1 : null;

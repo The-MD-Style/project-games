@@ -32,7 +32,7 @@ const Table: React.FC<Props> = (props: Props) => {
 
   return (
     <table className={classes["table"]}>
-      <tbody>
+           <tbody>
         {table.map((value, rowIndex: number) => (
           <tr className={classes["row"]} key={"row " + rowIndex}>
             {value.map((row_element, cellIndex) => (

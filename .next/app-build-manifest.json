@@ -25,6 +25,17 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/shashte/head.js"
+    ],
+    "/tik-tak-toe/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/tik-tak-toe/page.css",
+      "static/chunks/app/tik-tak-toe/page.js"
+    ],
+    "/tik-tak-toe/head": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tik-tak-toe/head.js"
     ]
   }
 }
